@@ -5,9 +5,7 @@
         "status": "completed",
         "createdDate": 1674385929617,
         "completedDate": 1674387505420,
-        "tags": [
-            "skill"
-        ]
+        "tags": []
     },
     {
         "id": 2,
@@ -15,9 +13,7 @@
         "status": "completed",
         "createdDate": 1674386103520,
         "completedDate": 1674387498242,
-        "tags": [
-            "entertainment"
-        ]
+        "tags": []
     },
     {
         "id": 3,
@@ -25,9 +21,7 @@
         "status": "completed",
         "createdDate": 1674386109830,
         "completedDate": 1674387507832,
-        "tags": [
-            "hobby"
-        ]
+        "tags": []
     },
     {
         "id": 4,
@@ -35,9 +29,7 @@
         "status": "incomplete",
         "createdDate": 1674390532910,
         "completedDate": null,
-        "tags": [
-            "housework"
-        ]
+        "tags": []
     },
     {
         "id": 5,
@@ -45,13 +37,27 @@
         "status": "incomplete",
         "createdDate": 1674390562392,
         "completedDate": null,
-        "tags": [
-            "housework"
-        ]
+        "tags": []
+    },
+    {
+        "id": 6,
+        "task": "clean",
+        "status": "incomplete",
+        "createdDate": 1674390611795,
+        "completedDate": null,
+        "tags": []
+    },
+    {
+        "id": 7,
+        "task": "clean",
+        "status": "incomplete",
+        "createdDate": 1674390644437,
+        "completedDate": null,
+        "tags": []
     },
     {
         "id": 8,
-        "task": "ngoding",
+        "task": "clean",
         "status": "incomplete",
         "createdDate": 1674390653380,
         "completedDate": null,
